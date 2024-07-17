@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T11:40:16.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wWAHlWOQcfHj_6AiPaEC" version="24.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T11:47:52.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tVu7FdVfgXkdVyyQIhXi" version="24.7.0" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
         <mxCell id="x5lYrM1FFVLCx4R_UeDV-118" value="链接邀请" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1160" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="x5lYrM1FFVLCx4R_UeDV-127" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-127" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="1140" y="870" width="1270" height="810" as="geometry" />
         </mxCell>
         <mxCell id="x5lYrM1FFVLCx4R_UeDV-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-131" target="x5lYrM1FFVLCx4R_UeDV-134">
@@ -288,7 +288,7 @@
           <mxGeometry x="1150" y="1145" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x5lYrM1FFVLCx4R_UeDV-132" value="报名信息管理" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="900" width="160" height="40" as="geometry" />
+          <mxGeometry x="1710" y="890" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x5lYrM1FFVLCx4R_UeDV-134" value="选择字段发出报名填写链接" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="950" width="140" height="70" as="geometry" />
@@ -441,6 +441,31 @@
         </mxCell>
         <mxCell id="x5lYrM1FFVLCx4R_UeDV-253" value="对于当前的报名信息盖章" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="1550" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-270" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-275" target="x5lYrM1FFVLCx4R_UeDV-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-275" target="x5lYrM1FFVLCx4R_UeDV-277">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2195" y="994.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-275" target="x5lYrM1FFVLCx4R_UeDV-278">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2080" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-275" value="发起人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="1040" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-276" value="查看所有报名信息" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="940" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-277" value="以奖状的格式导出信息" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1035" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-278" value="Excel导出信息" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;direction=west;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1130" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
