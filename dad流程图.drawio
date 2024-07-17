@@ -1,9 +1,168 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T08:49:45.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="g8TcssncEdO9bg6qzKCQ" version="24.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T09:24:42.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gVG_EOcQoRSvKjG77p9H" version="24.7.0" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="875" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-1" value="名单收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-2" target="x5lYrM1FFVLCx4R_UeDV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-2" target="x5lYrM1FFVLCx4R_UeDV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-2" value="创建活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-4" target="x5lYrM1FFVLCx4R_UeDV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-4" target="x5lYrM1FFVLCx4R_UeDV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-4" value="邀请负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-6" target="x5lYrM1FFVLCx4R_UeDV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-6" target="x5lYrM1FFVLCx4R_UeDV-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-6" value="邀请次负责人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-8" target="x5lYrM1FFVLCx4R_UeDV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-8" target="x5lYrM1FFVLCx4R_UeDV-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-8" value="发出活动报名链接" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-10" target="x5lYrM1FFVLCx4R_UeDV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-10" target="x5lYrM1FFVLCx4R_UeDV-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-10" value="填写活动报名信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-14" target="x5lYrM1FFVLCx4R_UeDV-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-14" value="提交流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-18" target="x5lYrM1FFVLCx4R_UeDV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-18" value="新建活动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-20" target="x5lYrM1FFVLCx4R_UeDV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-20" value="填写活动详情" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-24" target="x5lYrM1FFVLCx4R_UeDV-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-24" value="确定报名填写信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-26" target="x5lYrM1FFVLCx4R_UeDV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-26" value="预览并确定创建活动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-28" value="编辑或者删除活动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-30" target="x5lYrM1FFVLCx4R_UeDV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-30" value="生成链接与二维码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-32" target="x5lYrM1FFVLCx4R_UeDV-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-32" target="x5lYrM1FFVLCx4R_UeDV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-32" value="查看活动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-34" target="x5lYrM1FFVLCx4R_UeDV-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-34" value="确定成为责任人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-37" value="联系活动联系人修改负责人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-39" target="x5lYrM1FFVLCx4R_UeDV-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-39" value="钉钉直接邀请" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-41" value="删除次责任人以及数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-43" target="x5lYrM1FFVLCx4R_UeDV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-43" value="生成唯一活动链接" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-45" value="选择填写字段并通过用户ID区分" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-49" target="x5lYrM1FFVLCx4R_UeDV-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-49" value="参与者填写报名信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-51" value="负责人或次负责人编辑或者新增报名信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-53" target="x5lYrM1FFVLCx4R_UeDV-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-53" value="次负责人提交任务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-55" target="x5lYrM1FFVLCx4R_UeDV-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-55" value="负责人签字并提交" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-57" target="x5lYrM1FFVLCx4R_UeDV-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-57" value="校长签字" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5lYrM1FFVLCx4R_UeDV-59" target="x5lYrM1FFVLCx4R_UeDV-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-59" value="学校盖章" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x5lYrM1FFVLCx4R_UeDV-61" value="提交到活动发起人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
