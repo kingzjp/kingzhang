@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T09:21:52.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LAGv4LiPLQnH4-Q1gZzf" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T10:00:12.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0MgWkGHLnUPT0Y501ZEj" version="24.7.1" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="636" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -736,20 +736,62 @@
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8dl7Q4bdGxoyfgGmczAE-65" value="报名表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1860" width="160" height="86" as="geometry">
+          <mxGeometry x="260" y="1845" width="160" height="86" as="geometry">
             <mxRectangle x="70" y="1710" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dl7Q4bdGxoyfgGmczAE-66" value="类型" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="8dl7Q4bdGxoyfgGmczAE-65">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8dl7Q4bdGxoyfgGmczAE-67" value="分类" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="8dl7Q4bdGxoyfgGmczAE-65">
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-80" value="默认字段" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="8dl7Q4bdGxoyfgGmczAE-65">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8dl7Q4bdGxoyfgGmczAE-68" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=0.486;exitY=1.03;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="8dl7Q4bdGxoyfgGmczAE-59" target="8dl7Q4bdGxoyfgGmczAE-65">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="250" y="1826" as="sourcePoint" />
             <mxPoint x="130" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-69" value="常用字段" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1845" width="160" height="56" as="geometry">
+            <mxRectangle x="70" y="1710" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-75" value="名称" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="8dl7Q4bdGxoyfgGmczAE-69">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-78" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.474;exitY=1.06;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.443;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8dl7Q4bdGxoyfgGmczAE-75" target="8dl7Q4bdGxoyfgGmczAE-85">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="610" y="2031" as="sourcePoint" />
+            <mxPoint x="490" y="2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-79" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.458;exitY=0.964;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.416;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8dl7Q4bdGxoyfgGmczAE-80" target="8dl7Q4bdGxoyfgGmczAE-85">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="436" y="1933" as="sourcePoint" />
+            <mxPoint x="496.55999999999995" y="2019.496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-85" value="选择的字段" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1990" width="160" height="56" as="geometry">
+            <mxRectangle x="70" y="1710" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-86" value="题型" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="8dl7Q4bdGxoyfgGmczAE-85">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-90" value="字段的选型" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1990" width="160" height="56" as="geometry">
+            <mxRectangle x="70" y="1710" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-91" value="内容" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="8dl7Q4bdGxoyfgGmczAE-90">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-93" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.021;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8dl7Q4bdGxoyfgGmczAE-86" target="8dl7Q4bdGxoyfgGmczAE-91">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="398" y="2090" as="sourcePoint" />
+            <mxPoint x="500" y="2118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
