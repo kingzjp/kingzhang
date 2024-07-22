@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T09:34:49.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="O4qjU3hG3WPJ7bVtuk1K" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T09:35:04.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VdOVTMn-SNaYq0TfXHdc" version="24.7.1" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1436" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -571,36 +571,30 @@
             <mxRectangle width="153" height="444" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dl7Q4bdGxoyfgGmczAE-1" value="创建活动" style="ellipse;whiteSpace=wrap;html=1;" parent="IsivEMsxrxezTofvStYW-132" vertex="1">
-          <mxGeometry x="919" height="444" as="geometry">
+        <mxCell id="8dl7Q4bdGxoyfgGmczAE-1" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="IsivEMsxrxezTofvStYW-132" vertex="1">
+          <mxGeometry x="919" width="NaN" height="444" as="geometry">
             <mxRectangle width="NaN" height="444" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dl7Q4bdGxoyfgGmczAE-3" value="" style="whiteSpace=wrap;html=1;" parent="IsivEMsxrxezTofvStYW-132" vertex="1">
-          <mxGeometry height="444" as="geometry">
+          <mxGeometry width="NaN" height="444" as="geometry">
             <mxRectangle width="NaN" height="444" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dl7Q4bdGxoyfgGmczAE-5" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="IsivEMsxrxezTofvStYW-132" vertex="1">
-          <mxGeometry height="444" as="geometry">
+          <mxGeometry width="NaN" height="444" as="geometry">
             <mxRectangle width="NaN" height="444" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dl7Q4bdGxoyfgGmczAE-7" value="c" style="ellipse;whiteSpace=wrap;html=1;" parent="IsivEMsxrxezTofvStYW-132" vertex="1">
-          <mxGeometry height="444" as="geometry">
+          <mxGeometry width="NaN" height="444" as="geometry">
             <mxRectangle width="NaN" height="444" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dl7Q4bdGxoyfgGmczAE-12" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="IsivEMsxrxezTofvStYW-132" vertex="1">
-          <mxGeometry height="444" as="geometry">
+          <mxGeometry width="NaN" height="444" as="geometry">
             <mxRectangle width="NaN" height="444" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="8dl7Q4bdGxoyfgGmczAE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IsivEMsxrxezTofvStYW-145" target="8dl7Q4bdGxoyfgGmczAE-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8dl7Q4bdGxoyfgGmczAE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IsivEMsxrxezTofvStYW-145" target="8dl7Q4bdGxoyfgGmczAE-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8dl7Q4bdGxoyfgGmczAE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IsivEMsxrxezTofvStYW-145" target="8dl7Q4bdGxoyfgGmczAE-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
