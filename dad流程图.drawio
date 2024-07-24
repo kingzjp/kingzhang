@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T01:04:11.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AxFrgTZZFuzCoeugdGfv" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T01:04:56.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="o_y22vGpUmcVRb27QbB4" version="24.7.3" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1221" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -740,7 +740,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="32OBZfpeQewtBPWA9-um-19" value="表单字段" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#CCCC00;" parent="1" vertex="1">
-          <mxGeometry x="1730" y="2180" width="160" height="446" as="geometry">
+          <mxGeometry x="1620" y="2182" width="160" height="446" as="geometry">
             <mxRectangle x="70" y="1710" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -866,7 +866,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="32OBZfpeQewtBPWA9-um-42" value="活动名单" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="1730" width="160" height="446" as="geometry">
+          <mxGeometry x="1790" y="1736" width="160" height="446" as="geometry">
             <mxRectangle x="70" y="1710" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
